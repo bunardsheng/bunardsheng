@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bunardsheng
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning C# and Unity.
-- 📫 How to reach me: @berniesheng02@gmail.com
+- 👀 Software Engineer Intern @ Optum
+- 🌱 Working on something cool...
+- 📫 How to reach me: bernards@andrew.cmu.edu
 
 
