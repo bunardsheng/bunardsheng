@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bunardsheng
-- 👀 Senior at CMU
+- 👀 CMU alum
 - 🌱 Working on something cool...
 - 📫 How to reach me: bernards@andrew.cmu.edu
 
